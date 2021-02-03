@@ -1,0 +1,6 @@
+NASIL OYNANIR?
+1)Önce KelimeEkleme->Src->KelimeEkleme->KelimeEkleme.java'yı açalım ve run edelim.
+2)Ya kendimiz soru kelime ekleyelim yada üşendiysek benim yerime sen ekle butonuna tıklayalım.
+3)JAVAFİNAL içindeki oynama klasörüne girelim.->src->oynama->Oynama.java'yı açalım run edelim
+4)Girmemiz istenilen bilgileri girelim ve şifreye : 'mertcloud' yazıp başla diyelim.
+5)Daha sonrasında oyundaki adımları takip edebiliriz.
